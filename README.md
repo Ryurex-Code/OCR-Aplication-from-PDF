@@ -1,0 +1,1 @@
+# OCR-Aplication-from-PDF
